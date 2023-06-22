@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "@medusajs",
   "resolutions": {
-    "devcert": "1.2.1",
+    "devcert": "1.2.2",
     "postcss": "^8.4.5",
     "@types/react": "^18.0.21"
   },
