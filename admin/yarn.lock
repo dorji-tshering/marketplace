@@ -7200,10 +7200,10 @@ detective@^5.2.1:
     defined "^1.0.0"
     minimist "^1.2.6"
 
-devcert@1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/devcert/-/devcert-1.2.1.tgz#cb545583f4dfd33ed5358dacc3756d4c3878b858"
-  integrity sha512-R7DqtMtsNmFVY75kzRHXON3hXoJili2xxlEcZgHi0VHSx8aJECfm7ZqAquXzTeAM/I9f8G2pHc/zq5k6iXHQzA==
+devcert@1.2.3:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/devcert/-/devcert-1.2.3.tgz#aec1a03e1d9152001406b9bd5bef26c2958fcbaa"
+  integrity sha512-vmLo0hDNHmZ47HED1ZiouJ7cAcamL8HY7qa9YdmCBkXxHEVtdDgT9pN/Xy3ZkcF3pFjF0sqq8WMV93HF2nmHHw==
   dependencies:
     "@types/configstore" "^2.1.1"
     "@types/debug" "^0.0.30"
